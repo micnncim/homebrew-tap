@@ -2,9 +2,9 @@
 class GoreleaserPlayground < Formula
   desc "GoReleaser playground"
   homepage "https://github.com/micnncim/goreleaser-playground"
-  url "https://github.com/micnncim/goreleaser-playground/releases/download/v0.2.6/goreleaser-playground_0.2.6_darwin_amd64.tar.gz"
-  version "0.2.6"
-  sha256 "3f40c27c62d0f981151520730589a7f3bddd9c4cef2334d55ca96421d9b9c2a0"
+  url "https://github.com/micnncim/goreleaser-playground/releases/download/v0.2.8/goreleaser-playground_0.2.8_darwin_amd64.tar.gz"
+  version "0.2.8"
+  sha256 "5ee9123bc760df8f4e83a00d47da6471a5af67e168cd328576847ac1b7865701"
 
   def install
     bin.install "goreleaser-playground"
