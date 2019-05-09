@@ -2,9 +2,9 @@
 class SelfupdatePlayground < Formula
   desc "selfupdate-playground"
   homepage "https://github.com/micnncim/selfupdate-playground"
-  url "https://github.com/micnncim/selfupdate-playground/releases/download/v0.1.2/selfupdate-playground_0.1.2_darwin_amd64.tar.gz"
-  version "0.1.2"
-  sha256 "cf9eefa16cf1db4282e769c7a2b9c426664ccd69ba166eca28756b4f53484aa9"
+  url "https://github.com/micnncim/selfupdate-playground/releases/download/v0.1.3/selfupdate-playground_0.1.3_darwin_amd64.tar.gz"
+  version "0.1.3"
+  sha256 "dfbd9391bfb88b1be193940ddc1504757ee7cdd8d00e0f2986e1083366ea5697"
 
   def install
     bin.install "selfupdate-playground"
